@@ -1,2 +1,2 @@
-print("my first git project")
+print("my second exmp for git Test")
 
